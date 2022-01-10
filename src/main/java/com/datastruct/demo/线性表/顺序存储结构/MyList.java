@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.Arrays;
 
 /**
- * Copyright (C),2015-2020,Neusoft
+ *
  *
  * @FileName: MyList
  * @Author: dreamerlee

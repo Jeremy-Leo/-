@@ -1,9 +1,7 @@
 package com.datastruct.demo.线性表;
 
-import java.util.Collection;
-
 /**
- * Copyright (C),2015-2020,Neusoft
+ *
  *
  * @FileName: List
  * @Author: dreamerlee

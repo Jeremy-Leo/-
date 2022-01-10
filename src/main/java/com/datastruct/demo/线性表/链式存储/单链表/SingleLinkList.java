@@ -1,7 +1,7 @@
 package com.datastruct.demo.线性表.链式存储.单链表;
 
 /**
- * Copyright (C),2015-2020,Neusoft
+ *
  *
  * @FileName: SingleLinkList 单链表
  * @Author: dreamerlee

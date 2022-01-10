@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.datastruct</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>road</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
-    <description>Demo project for Spring Boot</description>
+    <name>datastruct-study</name>
+    <description>data struct study road </description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -26,7 +26,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.71</version>
+            <version>1.2.79</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
